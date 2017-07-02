@@ -8,10 +8,10 @@ Here are main objectives of the project:
 Most important disciplines that are interesting from this project perspective are:
  * Health
      * Happyness (psyshological and biological aspects)
-     * Longliveness
+     * Longevity
  * Programming career (sorry for people from other disciplines)
  * Expresiveness (writing, speaking and just communication skills)
- * Producctivity
+ * Productivity
  
 # Tools
 Different types of needs have different set of tools. This are types of needs:
