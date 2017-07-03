@@ -10,13 +10,13 @@ Most important disciplines that are interesting from this project perspective ar
      * Happyness (psyshological and biological aspects)
      * Longevity
  * Programming career (sorry for people from other disciplines)
- * Expresiveness (writing, speaking and just communication skills)
+ * Expressiveness (writing, speaking and just communication skills)
  * Productivity
  
 # Tools
 Different types of needs have different set of tools. This are types of needs:
  * Skills
- * Knowladge
+ * Knowledge
  * Habits
  * Goals & Bucket list elements
  * Mental rules
